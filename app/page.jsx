@@ -11,7 +11,7 @@ Masjid Jami Al Barokah bukan sekadar tempat ibadah bagi umat Islam, tetapi juga 
 `;
 
 const preDynamicContentExplainer = `
-The card content below is fetched by the client-side from \`/quotes/random\` (see file \`app/quotes/random/route.js\`) with a different quote shown on each page load:
+open donasi (see file \`app/quotes/random/route.js\`) isi formulir
 `;
 
 const postDynamicContentExplainer = `
