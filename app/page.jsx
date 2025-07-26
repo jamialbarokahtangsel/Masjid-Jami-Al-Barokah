@@ -6,7 +6,7 @@ import { RandomQuote } from 'components/random-quote';
 import { getNetlifyContext } from 'utils';
 
 const contextExplainer = `
-The card below is rendered on the server based on the value of \`process.env.CONTEXT\` 
+Masjid Jami Al Barokah bukan sekadar tempat ibadah bagi umat Islam, tetapi juga pusat pembelajaran keislaman dan kegiatan sosial. Melalui program-program seperti TPQ, PAUD, Kajian Subuh, Pasar Bahagia, Sedekah Bahagia dan program menarik lainnya. Mari bersama-sama jadikan masjid sebagai tempat bertumbuh dalam iman, ilmu, dan kepedulian! 
 ([docs](https://docs.netlify.com/configure-builds/environment-variables/#build-metadata)):
 `;
 
